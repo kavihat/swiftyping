@@ -12,3 +12,6 @@ A word game that helps you improve typing skills of the player.<br>
 <br>
 * Images are taken from unsplash<br>
 * Music is from Youtube free audio library
+
+<b>Game Screen</b>
+<img width="996" alt="Second_screen" src="https://user-images.githubusercontent.com/63021350/154712919-3bc8a7df-2d33-4e44-b294-9d5d5679d401.png">
